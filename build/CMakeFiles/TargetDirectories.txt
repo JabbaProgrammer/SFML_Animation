@@ -1,0 +1,3 @@
+/home/tim/Development/C++/SFML_Animation/build/CMakeFiles/SFML_Animation.dir
+/home/tim/Development/C++/SFML_Animation/build/CMakeFiles/edit_cache.dir
+/home/tim/Development/C++/SFML_Animation/build/CMakeFiles/rebuild_cache.dir
